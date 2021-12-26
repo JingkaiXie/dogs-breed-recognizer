@@ -2,7 +2,7 @@
 dataset: http://vision.stanford.edu/aditya86/ImageNetDogs/
 
 REQUIREMENTS:
-Pytorch, Numpy, PIL, Tensorboard, GPU(for training)
+Pytorch, Numpy, PIL, Tensorboard(for training), GPU(for training)
 
 
 To train: 
